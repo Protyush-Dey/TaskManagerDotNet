@@ -1,0 +1,47 @@
+# Build files
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+.env.*
+
+# User secrets
+secrets.json
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+
+# Test files
+TestResults/
+*.trx
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# MongoDB dump
+dump/
+*.bson
+
+# Publish output
+**/publish/
+
+# OS files
+.DS_Store
+Thumbs.db
